@@ -2,11 +2,11 @@
 ### 简介
   Flutter是Google推出的移动UI框架，可快速在iOS和Android上构建高质量的原生用户界面
 ### 特点
-  1. 快速开发</br>
+  1. 快速开发<br>
       Flutter选用的语言是Dart
-  2. 性能优越</br>
+  2. 性能优越<br>
       使用自带的高性能渲染引擎（Skia）进行自绘
-  3. 富有表现力的精美UI</br>
+  3. 富有表现力的精美UI<br>
       Flutter内置众多精美的Material Design和Cupertino（iOS风格）小部件
 ### 框架
   分为三层：Framework层、Engine层和Embedder层
